@@ -10,3 +10,5 @@ I am not responsible for what this does
 I recomend For you to use a Virtual machine
 
 For this virus!
+
+https://malradov.glitch.me/
