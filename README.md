@@ -3,7 +3,7 @@ A Virus for Mac Makes alerts And Flashing Lights warning~~~Updated wont restart 
 
 You can use the app if that doesnt work,
 
-Use the code and put it into applescripteditor or just download the files and open it and run it!
+Use the .scpt file and put it into applescripteditor or just download the file and open it and run it!
 
 About 42000 Lines
 
