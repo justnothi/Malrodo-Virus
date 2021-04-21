@@ -1,5 +1,5 @@
 set theDialogText to "The code you just executed is
-considered Is some type of trojan called malrodo it might use up all your ram,
+considered some type of trojan called malrodo it might use up all your ram,
 So i suggest you use a Virtual machine, If you execute this i am not responsible for any damages!
 Execute it?"
 display dialog theDialogText buttons {"Execute", "Dont execute"} cancel button "Dont execute" default button "Execute"
