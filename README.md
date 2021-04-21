@@ -1,6 +1,9 @@
 # Malrodo
-A Virus for Mac Makes alerts And Flashing Lights warning~~~Will restart your mac
+A Virus for Mac Makes alerts And Flashing Lights warning~~~Updated wont restart your mac and WILL USE UP A LOT OF RAM
 
+You can use the app if that doesnt work,
+
+Use the code and put it into applescripteditor or just download the files and open it and run it!
 
 
 # Warning
