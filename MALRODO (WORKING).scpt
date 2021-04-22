@@ -1,3 +1,4 @@
+beep 3
 set theDialogText to "The code you just executed is
 considered some type of trojan called malrodo it might use up all your ram, or some other cause i tested it and it started breaking my screen,
 So i suggest you use a Virtual machine, If you execute this i am not responsible for any damages!
