@@ -1,4 +1,5 @@
-# Malrodo
+# Malrodo.scpt or malrodo.app.zip for mac users
+
 A Virus for Mac Makes alerts And Flashing Lights warning~~~Updated wont restart your mac and WILL USE UP A LOT OF RAM
 
 You can use the .app file if it doesnt work,
