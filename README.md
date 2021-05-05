@@ -1,3 +1,10 @@
+# malrodo.exe or malrodo.vbs for windows use
+
+Hello if you are looking here and you are a windows user this hasnt released yet!
+How About while your waiting use a mac emulator to test it on mac
+.exe Version will be better than mac so just wait!
+
+
 # Malrodo.scpt or malrodo.app.zip for mac users
 
 A Virus for Mac Makes alerts And Flashing Lights warning~~~Updated wont restart your mac and WILL USE UP A LOT OF RAM
